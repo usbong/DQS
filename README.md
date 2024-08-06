@@ -1,5 +1,5 @@
-# SFZ
-Simple arcade game based on Sega and Sunsoft's "Super Fantasy Zone" and Williams Electronics' "Defender".
+# DQS
+Simple role-playing game based on fan-favorites from the 90's
 
 ## Open Source Software License
 Copyright 2024 SYSON, MICHAEL B.
